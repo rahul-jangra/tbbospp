@@ -1,6 +1,6 @@
 import random;
 
-NUM_DIGITS = 2
+NUM_DIGITS = 3
 MAX_RETRIES = 20
 
 def main():
